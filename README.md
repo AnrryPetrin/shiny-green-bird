@@ -17,7 +17,7 @@ O Duolingo é um aplicativo de aprendizado de idiomas que oferece uma ampla vari
   - Planilha com os cenários de teste elaborados
 
 ## Executando os Testes
-- **Ferramenta Utilizada para Execução dos Testes:** Extensão Selenium IDE e aplicativo web Duolingo.
+- **Ferramenta Utilizada para Execução dos Testes:** Extensão Selenium IDE.
 - **Sistema Operacional:** Ubuntu 24.04 LTS.
 - **Navegador:** Mozilla Firefox Snap for Ubuntu 125.0.3.
 

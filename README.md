@@ -26,6 +26,10 @@ Os pontos de cobertura de teste da tela de login incluem:
 - Teste de tentativa de login com credenciais inválidas
 - Teste de login com conta do Facebook
 - Teste de login com conta do Google
+- Teste de registro de novo usuário
+- Teste de tentativa de registro com informações incompletas
+- Tesde de registro de novo usuário com conta do Facebook
+- Teste de recuperação de senha
 
 ## Registro de Teste
 O vídeo gravado para a atividade pode ser acessado [aqui](https://www.example.com).

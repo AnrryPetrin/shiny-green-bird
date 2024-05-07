@@ -14,12 +14,12 @@ O Duolingo é um aplicativo de aprendizado de idiomas que oferece uma ampla vari
 - Arquivos no Conteúdo do Repositório:
   - Documento README.md
   - Arquivo Selenium IDE com os testes gravados
-  - Planilha com os cenários de testes elaborados
+  - Planilha com os cenários de teste elaborados
 
 ## Executando os Testes
-- **Ferramenta Utilizada para Execução dos Testes:** Selenium IDE, aplicativo web Duolingo.
-- **Sistema Operacional:** Independente do sistema operacional.
-- **Navegador:** Qualquer navegador web moderno que seja compátivel com a extensão Selenium IDE.
+- **Ferramenta Utilizada para Execução dos Testes:** Extensão Selenium IDE e aplicativo web Duolingo.
+- **Sistema Operacional:** Ubuntu 24.04 LTS.
+- **Navegador:** Mozilla Firefox Snap for Ubuntu 125.0.3.
 
 ## Pontos de Cobertura de Teste da Tela de Login
 Os pontos de cobertura de teste da tela de login incluem:

@@ -21,7 +21,7 @@ O Duolingo é um aplicativo de aprendizado de idiomas que oferece uma ampla vari
 - **Sistema Operacional:** Ubuntu 24.04 LTS.
 - **Navegador:** Mozilla Firefox Snap for Ubuntu 125.0.3.
 
-## Pontos de Cobertura de Teste da Tela de Login
+## Pontos de Cobertura de Teste 
 Os pontos de cobertura de teste da tela de login incluem:
 - Teste de login bem-sucedido
 - Teste de tentativa de login com credenciais inválidas

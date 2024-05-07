@@ -10,6 +10,7 @@ O Duolingo é um aplicativo de aprendizado de idiomas que oferece uma ampla vari
 ## Pré-requisitos
 - Softwares Utilizados:
   - [Selenium IDE](https://www.selenium.dev/selenium-ide/): Extensão para navegador web utilizada para gravação e execução de testes automatizados.
+![](https://github.com/AnrryPetrin/shiny-green-bird/blob/main/SELENIUM%20IDE.png)
 - Arquivos no Conteúdo do Repositório:
   - Documento README.md
   - Arquivo Selenium IDE com os testes gravados

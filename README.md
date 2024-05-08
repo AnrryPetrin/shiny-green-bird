@@ -33,8 +33,15 @@ Os pontos de cobertura de teste da tela de login incluem:
 - Teste de recuperação de senha
 
 ## Registro de Teste
+![](https://github.com/AnrryPetrin/shiny-green-bird/blob/main/SELENIUM%20IDE%20DUOLINGO.png)
 O vídeo gravado para a atividade pode ser acessado [aqui](https://www.example.com).
 
+## Considerações
+1. O Selenium IDE não conseguiu efetuar login no site do Duolingo com sucesso, independentemente do método utilizado (login direto, Google e Facebook).
+2. Mesmo fora do Selenium IDE, o login via Facebook apresentou problemas consistentes, incluindo a incapacidade de clicar no botão de login/registro com o Facebook e falhas na integração.
+3. Mensagens de erro indicaram possível detecção de atividade robótica durante os testes de login, sugerindo medidas de segurança implementadas pelo Duolingo.
+4. Todos os testes usando credenciais invalidas ou incompletas funcionaram como esperado, retornando mensagens de erro.  
+   
 ## Autor
 - Anrry Petrin De Araujo
   - anrry.petrin@gmail.com

@@ -6,11 +6,14 @@ Este repositório contém uma série de cenários de teste de caixa preta para o
 
 ## Descrição da Aplicação Escolhida
 O Duolingo é um aplicativo de aprendizado de idiomas que oferece uma ampla variedade de cursos gratuitos para usuários de todo o mundo.
+![](/img/DUOLINGO%20ENTRAR.png)
+![](/img/DUOLINGO%20CRIAR%20CONTA.png)
 
 ## Pré-requisitos
 - Softwares Utilizados:
   - [Selenium IDE](https://www.selenium.dev/selenium-ide/): Extensão para navegador web utilizada para gravação e execução de testes automatizados.
-![](https://github.com/AnrryPetrin/shiny-green-bird/blob/main/SELENIUM%20IDE.png)
+
+![](/img/SELENIUM%20IDE.png)
 - Arquivos no Conteúdo do Repositório:
   - Documento README.md
   - Arquivo Selenium IDE com os testes gravados
@@ -22,7 +25,7 @@ O Duolingo é um aplicativo de aprendizado de idiomas que oferece uma ampla vari
 - **Navegador:** Mozilla Firefox Snap for Ubuntu 125.0.3.
 
 ## Pontos de Cobertura de Teste 
-Os pontos de cobertura de teste da tela de login incluem:
+Os pontos de cobertura de teste incluem:
 - Teste de login bem-sucedido
 - Teste de tentativa de login com credenciais inválidas
 - Teste de login com conta do Facebook
@@ -33,7 +36,7 @@ Os pontos de cobertura de teste da tela de login incluem:
 - Teste de recuperação de senha
 
 ## Registro de Teste
-![](https://github.com/AnrryPetrin/shiny-green-bird/blob/main/SELENIUM%20IDE%20DUOLINGO.png)
+![](/img/SELENIUM%20IDE%20DUOLINGO.png)
 O vídeo gravado para a atividade pode ser acessado [aqui](https://www.example.com).
 
 ## Considerações
